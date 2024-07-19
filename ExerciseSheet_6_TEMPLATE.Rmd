@@ -1,7 +1,7 @@
 ---
 title: "Exercise #X"
 subtitle: "Fortgeschrittene Statistische Software für NF"
-author: "Name (Martrikelnummer), Name (Martrikelnummer), ..."
+author: "Chuchen Tao (12523759)"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -74,6 +74,11 @@ f)  The `DESCRIPTION` file of your package should be properly formatted
 a)  Briefly describe in one - two sentences what your R package does and
     why you decided to choose this functionality. This is just intended
     to give us some context to better understand the package.
+    
+    The `plotTools` package provides functions for creating custom scatter plots
+    and histograms using ggplot2. These functions allow users to specify colors, 
+    sizes, and bin numbers, making it easier to generate customized visualizations 
+    for data analysis.
 
 b)  To make installation easier, your R package should be in a public
     repository on GitHub. Provide the URL to the GitHub repository
