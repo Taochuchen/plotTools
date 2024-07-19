@@ -86,11 +86,18 @@ b)  To make installation easier, your R package should be in a public
 
 e.g. `https://github.com/<YOUR_GH_USERNAME>/<PACKAGE_REPOSITORY_NAME>`
 
+    
+    
+    `https://github.com/Taochuchen/plotTools`
+    
+    
+    
+
 c)  Your R package should be installable via
     `remotes::install_github()`. Before submitting your solution to this
     exercise sheet please test whether you can install your R package
     from GitHub. Provide the command below:
 
-``` r
-remotes::install_github("<YOUR_GH_USERNAME>/<PACKAGE_REPOSITORY_NAME>")
+```{r} 
+remotes::install_github("Taochuchen/plotTools")
 ```
