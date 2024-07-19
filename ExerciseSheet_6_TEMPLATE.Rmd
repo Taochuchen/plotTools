@@ -1,5 +1,5 @@
 ---
-title: "Exercise #X"
+title: "Exercise #6"
 subtitle: "Fortgeschrittene Statistische Software für NF"
 author: "Chuchen Tao (12523759)"
 date: "`r Sys.Date()`"
